@@ -2,7 +2,7 @@
 *INFO 6150
 
 # Log file
-*.log
+*GITIGNORE
 
 # BlueJ files
 *.ctxt
